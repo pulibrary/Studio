@@ -14,4 +14,4 @@ assignees: ''
 - [ ] items delivered to studio
 - [ ] items returned to stakeholder
 * **next delivery needed by:**
-**DPUL exhibit:**
+* **DPUL exhibit:**
