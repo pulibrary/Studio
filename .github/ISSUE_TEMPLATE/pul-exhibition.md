@@ -2,7 +2,7 @@
 name: PUL Exhibition
 about: Template used for PUL Exhibitions projects
 title: ''
-labels: ''
+labels: Exhibition
 assignees: ''
 
 ---
