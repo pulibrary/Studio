@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 **STAKEHOLDERS:**
-**COLLECTIONS:** 
+**COLLECTIONS:**
+**PROPOSAL:**
+
 - [ ] metadata complete
 - [ ] conservation/preservation
 - [ ] all items delivered to studio

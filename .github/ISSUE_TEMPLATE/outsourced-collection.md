@@ -9,7 +9,9 @@ assignees: ''
 
 **STAKEHOLDERS:**
 **COLLECTIONS:**
+**PROPOSAL:**
 **OUTSOURCED TO:**
+
 - [ ] metadata complete
 - [ ] conservation/preservation
 - [ ] digital files delivered to studio
