@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **STAKEHOLDERS:**
+**SPONSORS:**
 **EPHEMERA COLLECTION:**
 **PROPOSAL:**
 **DEADLINE:**

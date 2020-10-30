@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **STAKEHOLDERS:**
+**SPONSORS:**
 **COLLECTIONS:**
 **PROPOSAL:**
 **OUTSOURCED TO:**
