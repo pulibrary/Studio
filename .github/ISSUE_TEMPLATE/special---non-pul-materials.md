@@ -10,6 +10,7 @@ assignees: ''
 **STAKEHOLDERS:**
 **COLLECTIONS:**
 **PROPOSAL:**
+**DEADLINE:**
 
 - [ ] metadata complete
 - [ ] conservation/preservation

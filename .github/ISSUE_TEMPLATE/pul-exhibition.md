@@ -10,6 +10,8 @@ assignees: ''
 **STAKEHOLDERS:**
 **COLLECTIONS:**
 **PROPOSAL:**
+**DEADLINE:**
+
 - [ ] metadata complete
 - [ ] conservation/preservation
 - [ ] items delivered to studio

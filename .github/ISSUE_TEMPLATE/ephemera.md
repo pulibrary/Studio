@@ -10,6 +10,7 @@ assignees: ''
 **STAKEHOLDERS:**
 **EPHEMERA COLLECTION:**
 **PROPOSAL:**
+**DEADLINE:**
 - [ ] conservation/preservation
 - [ ] physical items organized @ folder/box level
 - [ ] metadata created in figgy

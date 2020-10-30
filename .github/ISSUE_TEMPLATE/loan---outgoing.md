@@ -10,6 +10,7 @@ assignees: ''
 **STAKEHOLDERS:**
 **COLLECTIONS:**
 **INSTITUTION BEING LOANED TO:**
+**DEADLINE:**
 - [ ] metadata complete
 - [ ] conservation/preservation
 - [ ] items delivered to studio
