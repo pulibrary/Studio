@@ -9,8 +9,9 @@ assignees: ''
 
 **STAKEHOLDERS:**
 **SPONSORS:**
-**EPHEMERA COLLECTION:**
-**PROPOSAL:**
+**EPHEMERA COLLECTION:** (Link here)
+**OTHER FIGGY COLLECTIONS:** (Link here) , (Link here)
+**PROPOSAL:** (Link here)
 **DEADLINE:**
 - [ ] conservation/preservation
 - [ ] physical items organized @ folder/box level

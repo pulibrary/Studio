@@ -9,11 +9,12 @@ assignees: ''
 
 **STAKEHOLDERS:**
 **SPONSORS:**
-**COLLECTIONS:**
-**PROPOSAL:**
+**FIGGY COLLECTIONS:** (Link here) , (Link here)
+**PROPOSAL:** (Link here)
 **OUTSOURCED TO:**
+**PAPERWORK:** (Link here)
 **DEADLINE:**
 
-- [ ] metadata complete
+- [ ] metadata complete  (Link here)
 - [ ] conservation/preservation
 - [ ] digital files delivered to studio

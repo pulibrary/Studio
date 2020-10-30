@@ -9,8 +9,8 @@ assignees: ''
 
 **STAKEHOLDERS:**
 **SPONSORS:**
-**COLLECTIONS:**
-**PROPOSAL:**
+**FIGGY COLLECTIONS:** (Link here) , (Link here)
+**PROPOSAL:** (Link here)
 **DEADLINE:**
 
 - [ ] metadata complete

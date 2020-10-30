@@ -9,11 +9,11 @@ assignees: ''
 
 **STAKEHOLDERS:**
 **SPONSORS:**
-**COLLECTIONS:**
-**PROPOSAL:**
+**FIGGY COLLECTIONS:** (Link here) ,(Link here)
+**PROPOSAL:** (Link here)
 **DEADLINE:**
 
-- [ ] metadata complete
+- [ ] metadata complete (Link here)
 - [ ] conservation/preservation
 - [ ] items delivered to studio
 - [ ] items returned to stakeholder
